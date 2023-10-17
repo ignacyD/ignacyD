@@ -12,7 +12,7 @@
 - 🌱 I’m currently deepening my knowleadge of Spring Boot and React  
   
 
-- ❓ Ask me about Java, JavaScript, Git or any technolodgy i have worked with  
+- ❓ Ask me about Java, JavaScript, Git or any technology i have worked with  
   
 
 - ⚡ Fun fact: When im not busy with coding you can find me on climbing wall  
